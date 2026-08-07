@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Aditya Namdev 👋
 
-<!--
-**adinamdev/adinamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Virginia Tech focused on computer architecture, FPGA development, embedded systems, digital hardware design, and AI hardware.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Architecture
+- FPGA Design
+- RTL Design
+- Embedded Systems
+- Verilog
+- C++
+- AI Hardware
+
+## Featured Projects
+
+### 5-Stage Pipelined RISC-V CPU
+A synthesizable 5-stage pipelined RISC-V processor written in Verilog for FPGA implementation.
+
+### PulseLink
+Real-time embedded telemetry platform built with an ESP32, Wi-Fi communication, and a browser-based monitoring dashboard.
+
+### FalconRT
+FPGA-based video game system developed in Verilog featuring modular RTL design and hardware graphics generation.
+
+### AI Hardware Accelerator *(In Progress)*
+Designing a systolic-array-based AI accelerator in Verilog for efficient matrix multiplication on FPGA hardware.
+
+## Technologies
+
+- Verilog
+- C++
+- Python
+- Intel Quartus Prime
+- Questa
+- ESP32
+- Git
+- GitHub
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/adityanamdev-vt
