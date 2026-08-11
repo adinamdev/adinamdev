@@ -14,8 +14,8 @@ Computer Engineering student at Virginia Tech focused on computer architecture, 
 
 ## Featured Projects
 
-### 5-Stage Pipelined RISC-V CPU
-A synthesizable 5-stage pipelined RISC-V processor written in Verilog for FPGA implementation.
+### 32-bit RISC-V CPU
+A synthesizable 32-bit RISC-V processor implemented in Verilog with modular RTL, instruction decode, ALU execution, memory access, branch control, Questa verification, and FPGA synthesis targeting the Intel DE10-Lite.
 
 ### PulseLink
 Real-time embedded telemetry platform built with an ESP32, Wi-Fi communication, and a browser-based monitoring dashboard.
